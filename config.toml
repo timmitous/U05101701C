@@ -2,3 +2,8 @@ baseURL = "https://singer-crocodile-51342.netlify.com/"
 languageCode = "en-us"
 title = "Timpa xd"
 theme = "ananke"
+SectionPagesMenu = "main"
+
+[params]
+featured_image = "images/xddd.jpg"
+twitter = "http://www.twitter.com/t4ostra"
